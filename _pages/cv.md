@@ -12,7 +12,7 @@ redirect_from:
 *  Assistant Professor, Graduate School of Public and International Affairs and Institute of the Environment, University of Ottawa, 2025 - present
 
 ### Education  
-* PhD Public Administration, Syracuse University, 2024 (expected)
+* PhD Public Administration, Syracuse University, 2024 
 * M.Sc. Political Science, Université de Montreal, 2015
 * B.A. International Relations, University of British Columbia, 2011
 
